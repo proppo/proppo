@@ -1,0 +1,13 @@
+*.pdf
+*.pyc
+*.png
+__pycache__
+Figures
+*~
+docs/_build
+docs/*.rst
+logs
+\#*
+.cache
+scripts
+deprecated

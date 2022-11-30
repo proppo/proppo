@@ -1,0 +1,3 @@
+#!/bin/bash -eux
+
+pytest proppo/tests -p no:warnings -v
